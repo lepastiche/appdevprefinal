@@ -1,5 +1,8 @@
-INSERT NAME BELOW: @format (i.e. @Eda)
+INSERT YOUR GITHUB NAME BELOW: @format (i.e. @lepastiche)
 
 -@candyloody
 -@Noor
--@Gwyneth
+@Gwyneth
+@beerandt
+@Jonalyn
+@Don316
