@@ -6,3 +6,7 @@ INSERT YOUR GITHUB NAME BELOW: @format (i.e. @lepastiche)
 @beerandt
 @Jonalyn
 @Don316
+@JLdaduya
+@Annedreeyia
+@ian-mislang
+
