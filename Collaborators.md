@@ -10,3 +10,7 @@ INSERT YOUR GITHUB NAME BELOW: @format (i.e. @lepastiche)
 @Annedreeyia
 @ian-mislang
 @Rojane
+@Maychelle28
+@lyraoligan111111
+@Icyhot1016
+
